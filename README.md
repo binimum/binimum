@@ -40,11 +40,13 @@
 
 *Last updated: a long time ago*
 
-- tidal ui
+- hifi-api
+- am-lyrics
 
 ## I'm learning
 
 - Maths
+- computer
 
 ## How to reach me
 
@@ -59,7 +61,7 @@ email [max@binimum.org](mailto:max@binimum.org)
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <!--
-**uimaxbai/uimaxbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**binimum/binimum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
