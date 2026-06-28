@@ -66,7 +66,7 @@ developer_entity:
 
 *Last updated: a long time ago*
 
-- hifi-api
+- trying to think of something for binimum.org
 - am-lyrics
 
 ## I'm learning
@@ -75,6 +75,8 @@ developer_entity:
 - computer
 
 ## How to reach me
+
+discord `@binimum` or email `max@binimum.org`
 
 ## A random joke
 
