@@ -1,5 +1,7 @@
 # Hey there; 你好 👋
 
+🡒 [See my new site!](https://binimum.org)
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
@@ -66,7 +68,7 @@ developer_entity:
 
 *Last updated: a long time ago*
 
-- trying to think of something for binimum.org
+- ~~trying to think of something for binimum.org~~ [visit my site](https://binimum.org)
 - am-lyrics
 
 ## I'm learning
